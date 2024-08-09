@@ -29,11 +29,27 @@ To run this project locally, follow these steps:
    ```bash
    npm install
    
-4.**Start the application:**
-   
+4. **Start the application:**
+
    ```bash
    npm start
-The application will be available at http://localhost:3000.
+   
+## Project Structure
+- **src/App.js: Main component of the application.
+- **src/convertor/Convertor.js: Number conversion component.
+- **src/components/NumberInput.js: Reusable component for number input.
+- **src/utils/IEE754.js: Utility function to get the IEEE754 representation of a decimal number.
+- **src/App.css: Stylesheet for the application.
+
+## Testing
+**This project uses Jest and React Testing Library for testing. To run the tests, use the following command:**
+
+   ```bash
+   npm test
+
+
+   
+
 
    
 
