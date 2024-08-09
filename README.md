@@ -19,3 +19,16 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/number-converter.git
 
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd number-converter
+   
+3. **Install dependencies:**
+   
+   ```bash
+   npm install
+   
+4.**
+   
+
